@@ -1,0 +1,15 @@
+{
+    "name": "caoxu/text",
+    "autoload": {
+        "psr-4": {
+            "Caoxu\\Text\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caoxu",
+            "email": "525832662@qq.com"
+        }
+    ],
+    "require": {}
+}
